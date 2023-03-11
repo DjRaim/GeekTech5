@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { useDispatch, useSelector } from "react-redux"
-import { countNumber } from "../store/countSlice"
+import {countNumber} from "../../store/countSlice";
 
 
 function CountPage() {
